@@ -1,0 +1,7 @@
+C:\Users\11cal\source\repos\LinqConsoleApp\LinqConsoleApp\bin\Debug\LinqConsoleApp.exe.config
+C:\Users\11cal\source\repos\LinqConsoleApp\LinqConsoleApp\bin\Debug\LinqConsoleApp.exe
+C:\Users\11cal\source\repos\LinqConsoleApp\LinqConsoleApp\bin\Debug\LinqConsoleApp.pdb
+C:\Users\11cal\source\repos\LinqConsoleApp\LinqConsoleApp\obj\Debug\LinqConsoleApp.csprojAssemblyReference.cache
+C:\Users\11cal\source\repos\LinqConsoleApp\LinqConsoleApp\obj\Debug\LinqConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\11cal\source\repos\LinqConsoleApp\LinqConsoleApp\obj\Debug\LinqConsoleApp.exe
+C:\Users\11cal\source\repos\LinqConsoleApp\LinqConsoleApp\obj\Debug\LinqConsoleApp.pdb
